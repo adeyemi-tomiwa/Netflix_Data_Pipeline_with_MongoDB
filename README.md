@@ -1,4 +1,3 @@
-# Assignment-10
 ## Project Overview: Netflix Data Pipeline with MongoDB & PyMongo
 This project demonstrates how to design a simple data engineering pipeline using only Python, MongoDB, and PyMongo. 
 The goal is to support the Data Science and Product teams of a global streaming platform by answering key business questions about content performance and user behavior.
